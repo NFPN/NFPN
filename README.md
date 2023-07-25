@@ -1,6 +1,6 @@
 ### Hi there welcome to my github page 👋
 
-![MyGitStatus](https://github-readme-stats.vercel.app/api?username=nfpn&count_private=true&theme=react&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=nfpn&theme=github_dark_dimmed&show_icons=true)
 
 [:)](https://img.devrant.com/devrant/rant/r_1922812_BqYh7.jpg)
 
