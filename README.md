@@ -2,7 +2,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=nfpn&count_private=true&theme=github_dark_dimmed&show_icons=true)
 
-[:)](https://img.devrant.com/devrant/rant/r_1922812_BqYh7.jpg)
+[:)](https://programmerhumor.io/?bimber_random_post=true)
 
 <!--
 **NFPN/NFPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
