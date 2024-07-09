@@ -4,11 +4,11 @@
  I also like to make games!
 
 
-![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfpn&theme=discord_old_blurple)
+![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NFPN&theme=discord_old_blurple)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=nfpn&count_private=true&theme=github_dark_dimmed&show_icons=true&rank_icon=github)
+![My stats](https://github-readme-stats.vercel.app/api?username=NFPN&count_private=true&theme=github_dark_dimmed&show_icons=true&rank_icon=github)
 
-![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nfpn&theme=github_dark_dimmed&hide_langs_below=1&layout=compact) 
+![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NFPN&theme=github_dark_dimmed&hide_langs_below=1&layout=compact) 
 
 
 <!--
